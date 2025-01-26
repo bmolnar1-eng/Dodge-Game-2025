@@ -1,0 +1,3 @@
+This python code is designed to create a simple dodge game for PPG's Bring a Child To Work Day. Although it is my hope that the game is fun on it's own, the real fun is supposed to be tinkering around with some variables to break the game.
+The goal is for this game to be able to entertain and educate a group of kids ranging from Kintergarden to late high school for approximately 15 minutes. Variables that have observable impacts on gameplay will be included at the beginning
+of the script and will be designed so that values can be easily and quickly reset between groups. In addition, comments will help explain what making a change to the script does.
